@@ -1,0 +1,33 @@
+#hetha{
+    color : red
+}
+#hetheka{
+    background : skyblue 
+}
+.hethom{
+    background : brown
+}
+p,h1,.hethom,#hetheka{
+    color : black;
+}
+p{
+    color : green;
+
+}
+h1:hover{
+    color : blue;
+}
+h1{
+    border-left:10px dotted violet;
+    border-right:10px dotted red;
+    border-top:10px dotted gold;
+}
+    h1{
+        background-color:gray;
+        margin:10px;
+        padding:10px;
+
+    }
+    img{
+        width:50%;
+    }
